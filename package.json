@@ -1,0 +1,19 @@
+{
+  "name": "functional-programming-show-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "http-server --port 3300 --cors -c-1",
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
