@@ -27,4 +27,4 @@ Aplicação simples para demonstrar os conceitos básicos de programação.
 - 4 - A aplicação estará disponível no endereço: "<http://localhost:3300>";
 
     -- A aplicação está disponível apenas no console do navegador ou através do nodejs em terminal/CMD;
-5 - Para executar os testes, digitar ```npm test```;
+- 5 - Para executar os testes, digitar ```npm test```;
