@@ -35,4 +35,4 @@ Aplicação simples para demonstrar os conceitos básicos de programação.
 - 2 - A aplicação estará disponível no endereço: "<http://localhost:8080>";
 
 ### Resultado
-![alt text](https://github.com/wolfather/functional-programming-show-code/assets/result.png "resultado de aplicação")
+![alt text](https://github.com/wolfather/functional-programming-show-code/blob/main/assets/result.png "resultado de aplicação")
