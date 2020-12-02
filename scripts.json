@@ -1,0 +1,7 @@
+{
+  "allow": ["env", "watch", "net"],
+  "$schema": "https://deno.land/x/denon/schema.json",
+  "scripts": {
+    "start": "denon run deno/main.ts"
+  }
+}

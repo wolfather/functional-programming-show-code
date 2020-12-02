@@ -1,0 +1,1 @@
+{"version":3,"file":"getnewsalary.service.js","sourceRoot":"","sources":["../../../../assets/ts/services/getnewsalary/getnewsalary.service.ts"],"names":[],"mappings":";;;;IAEA,SAAgB,YAAY,CAAC,iBAAoC;QAC7D,OAAO,UAAS,MAAc;YAC1B,OAAO,CAAC,QAAQ,CAAC,MAAM,CAAC,GAAG,iBAAiB,CAAC,CAAC,QAAQ,CAAC,CAAC,CAAC,CAAC;QAC9D,CAAC,CAAA;IACL,CAAC;IAJD,oCAIC"}

@@ -1,0 +1,8 @@
+
+.employees-list {}
+.employees-list-header {
+    background: #cdd;
+}
+.employees-list-header td {
+    padding: 3px;
+}

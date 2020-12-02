@@ -18,15 +18,18 @@ var app = (function(version) {
     const findTempEmployee = findEmployeeBy(newEmployeeList)('firstName', 'Bob');
     console.log('findTempEmployee', findTempEmployee);
 
-
     const findSomeDeveloper = findEmployeeBy(newEmployeeList);
     const employeePromoted = findSomeDeveloper('firstName', 'Doug')[0];
     console.log('promoted: ', employeePromoted);
 
     const promoteEmployee = makeComposition(
-        appendEmail,
         changeEmployeeLevel,
         addCard,
+    );
+
+    const onboardingEmployee = makeComposition(
+        appendEmail,
+        //darBoasVindas
     );
     
     const anotherPromoteEmployee = makeComposition(
@@ -34,8 +37,7 @@ var app = (function(version) {
         addCard,
     );
 
-
     console.log(promoteEmployee(someEmployee[0]));
     console.log(anotherPromoteEmployee(someEmployee[1]));
-
 }('1.0.0'));
+
