@@ -9,6 +9,7 @@ Aplicação simples para demonstrar os conceitos básicos de programação.
 - High Order Functions;
 - Closures;
 - Pure & Impure Functions;
+- Recursion;
 - Side Effects;
 
 ## Conceitos extras abordados
