@@ -30,6 +30,9 @@ Aplicação simples para demonstrar os conceitos básicos de programação.
 - 5 - Para executar os testes, digitar ```npm test```;
 
 ## Programação funcional com DENO
-## How to run
+### How to run
 - 1 - Dentro do diretório, executar no CMD: ```denon run --allow-net deno/main.ts```
 - 2 - A aplicação estará disponível no endereço: "<http://localhost:8080>";
+
+### Resultado
+![alt text](https://github.com/wolfather/functional-programming-show-code/raw/master/assets/result.png "resultado de aplicação")
